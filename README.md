@@ -48,7 +48,7 @@ Exavi File is built on transparency and verified architecture.
 
 <div align="center">
   
-| CONTRACT ADDRESS (SOL) |
+| CONTRACT ADDRESS (ERC-20) |
 | :---: |
 | [`@ExaviFile`](https://x.com/ExaviFile) |
 | *Click Address to Verify on X* |
@@ -162,7 +162,7 @@ We welcome contributors to the Exavi Network.
 
 <div align="center">
 
-**© 2024 EXAVI FILE.**  
+**© 2026 EXAVI FILE.**  
 *Built for the future of intelligent data.*
 
 [Twitter](https://x.com/ExaviFile) • [Discord](https://discord.gg/exavi)
