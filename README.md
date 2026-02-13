@@ -48,7 +48,7 @@ Exavi File is built on transparency and verified architecture.
 
 <div align="center">
   
-| CONTRACT ADDRESS (ERC-20) |
+| CONTRACT ADDRESS (SOL) |
 | :---: |
 | [`@ExaviFile`](https://x.com/ExaviFile) |
 | *Click Address to Verify on X* |
