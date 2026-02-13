@@ -56,7 +56,7 @@ Exavi File is built on transparency and verified architecture.
 </div>
 
 *   **Initial Valuation:** $200,000
-*   **Total Supply:** 100,000,000 XVF
+*   **Total Supply:** 100,000,000 EXAV
 *   **Security:** Smart Contracts Audited ✅
 *   **Infrastructure:** React 19 + Framer Motion + Tailwind CSS
 
