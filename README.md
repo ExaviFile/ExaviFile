@@ -50,8 +50,7 @@ Exavi File is built on transparency and verified architecture.
   
 | CONTRACT ADDRESS (SOL) |
 | :---: |
-| [`
-ExaviFile`](https://x.com/ExaviFile) |
+| [`@ExaviFile`](https://x.com/ExaviFile) |
 | *Click Address to Verify on X* |
 
 </div>
