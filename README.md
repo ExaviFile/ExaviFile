@@ -50,7 +50,8 @@ Exavi File is built on transparency and verified architecture.
   
 | CONTRACT ADDRESS (ERC-20) |
 | :---: |
-| `0x5E74D9F20e304886675D27A79D32087612E7421F` |
+| [`0x5E74D9F20e304886675D27A79D32087612E7421F`](https://x.com/ExaviFile) |
+| *Click Address to Verify on X* |
 
 </div>
 
