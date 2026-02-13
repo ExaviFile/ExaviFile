@@ -165,6 +165,6 @@ We welcome contributors to the Exavi Network.
 **© 2026 EXAVI FILE.**  
 *Built for the future of intelligent data.*
 
-[Twitter](https://x.com/ExaviFile) • [Discord](https://discord.gg/exavi)
+[Twitter](https://x.com/ExaviFile) • [Telegram](https://t.me/ExaviFile)
 
 </div>
